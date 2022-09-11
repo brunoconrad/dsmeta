@@ -22,7 +22,7 @@ public class Sale {
 	private LocalDate date;
 
 	public Sale() {
-		
+
 	}
 
 	public Long getId() {
@@ -72,5 +72,5 @@ public class Sale {
 	public void setDate(LocalDate date) {
 		this.date = date;
 	}
-	
+
 }
