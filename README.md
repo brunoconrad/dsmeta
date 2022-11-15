@@ -2,7 +2,7 @@
 
 Projeto criado para listar as vendas de vendedores e fazer o envio de SMS com o total de vendas.
 
-| :placard: Vitrine.Dev |     |
+|  | INFORMAÇÕES DO PROJETO |
 | -------------  | --- |
 | :sparkles: Nome      | **DsMeta**
 | :label: Tecnologias  | java, Spring, React, Vite, TypeScript
