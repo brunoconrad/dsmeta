@@ -6,7 +6,6 @@ Projeto criado para listar as vendas de vendedores e fazer o envio de SMS com o 
 | -------------  | --- |
 | :sparkles: Nome      | **DsMeta**
 | :label: Tecnologias  | java, Spring, React, Vite, TypeScript
-| :rocket: URL         | https://dsmeta-frontend-fkwxjqhrz-brunoconrad.vercel.app/
 | :rocket: Projeto         | https://github.com/brunoconrad/dsmeta
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
